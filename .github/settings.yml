@@ -1,6 +1,6 @@
 ---
 repository:
-  name: groups
+  name: ansible-groups
   description: Ansible role to create and modify system groups
   topics: ansible, role, ansible-role, hacktoberfest
 
